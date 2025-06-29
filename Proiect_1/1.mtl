@@ -1,0 +1,70 @@
+newmtl PFL_Alb
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/corpus_ionut/CorpusUpdate/ElmTex/PLF/PFL_Alb.jpg
+
+newmtl Y121
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/corpus_ionut/CorpusUpdate/ElmTex/FALCO DECOR/Y121.jpg
+
+newmtl U999_ST20
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/corpus_ionut/CorpusUpdate/ElmTex/PAL_Egger/U999_ST20.jpg
+
+newmtl U540_ST9
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/corpus_ionut/CorpusUpdate/ElmTex/PAL_Egger/U540_ST9.jpg
+
+newmtl Y116
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/corpus_ionut/CorpusUpdate/ElmTex/FALCO DECOR/Y116.jpg
+
+newmtl ametal
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/corpus_ionut/CorpusUpdate/ElmTex/Metal/ametal.bmp
+
+newmtl EGGER_F243_ST76_Light Grey Candela Marble
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/corpus_ionut/CorpusUpdate/ElmTex/EGGER_EURODEKOR_EAST_SOUTH_2024/EGGER_F243_ST76_Light Grey Candela Marble.jpg
+
